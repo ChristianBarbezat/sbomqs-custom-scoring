@@ -71,3 +71,5 @@ require (
 	gotest.tools v2.2.0+incompatible
 	sigs.k8s.io/yaml v1.6.0 // indirect
 )
+
+replace github.com/interlynk-io/sbomqs => ../sbomqs-custom-scoring
